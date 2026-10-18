@@ -1,0 +1,46 @@
+[
+    {
+        "image": "buidingsample.jpg",
+        "status": "Success",
+        "original_bytes": 54027,
+        "semantic_json_bytes": 226,
+        "bytes_saved": 53801,
+        "size_reduction_percent": 99.58,
+        "inference_time_seconds": 97.7,
+        "description": "The image shows the Empire State Building in New York City, surrounded by other tall buildings. The sky is blue with scattered clouds.",
+        "semantic_json_file": "buidingsample_semantics.json"
+    },
+    {
+        "image": "car.jpg",
+        "status": "Success",
+        "original_bytes": 208075,
+        "semantic_json_bytes": 242,
+        "bytes_saved": 207833,
+        "size_reduction_percent": 99.88,
+        "inference_time_seconds": 197.55,
+        "description": "A white BMW SUV is displayed in a showroom with a blue SUV in the background. The showroom has wooden accents, a reception desk, and a sign reading \"Quality.\"",
+        "semantic_json_file": "car_semantics.json"
+    },
+    {
+        "image": "sample image.jpg",
+        "status": "Success",
+        "original_bytes": 56921,
+        "semantic_json_bytes": 271,
+        "bytes_saved": 56650,
+        "size_reduction_percent": 99.52,
+        "inference_time_seconds": 100.41,
+        "description": "A white and orange train with an Indian flag emblem is on tracks. The train has a blue and white locomotive. The tracks are surrounded by gravel and a blue fence. The sky is clear.",
+        "semantic_json_file": "sample image_semantics.json"
+    },
+    {
+        "image": "school.jpg",
+        "status": "Success",
+        "original_bytes": 53853,
+        "semantic_json_bytes": 272,
+        "bytes_saved": 53581,
+        "size_reduction_percent": 99.49,
+        "inference_time_seconds": 102.26,
+        "description": "The image shows a school building with white walls and blue accents. The ground is green with a basketball court. There are trees and bushes in front of the building. The sky is overcast.",
+        "semantic_json_file": "school_semantics.json"
+    }
+]

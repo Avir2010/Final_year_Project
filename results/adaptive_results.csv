@@ -1,0 +1,5 @@
+Image,Decision,Original Bytes,Final Bytes,Reduction (%),SSIM,Output File
+buidingsample.jpg,Original retained,54027,54027,0.0,1.0,buidingsample_adaptive.jpg
+car.jpg,JPEG quality 60,208075,182532,12.28,0.9782,car_adaptive.jpg
+sample image.jpg,Original retained,56921,56921,0.0,1.0,sample image_adaptive.jpg
+school.jpg,JPEG quality 75,53853,52349,2.79,0.9921,school_adaptive.jpg

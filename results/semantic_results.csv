@@ -1,0 +1,5 @@
+﻿image,status,original_bytes,semantic_json_bytes,bytes_saved,size_reduction_percent,inference_time_seconds,description,semantic_json_file
+buidingsample.jpg,Success,54027,226,53801,99.58,97.7,"The image shows the Empire State Building in New York City, surrounded by other tall buildings. The sky is blue with scattered clouds.",buidingsample_semantics.json
+car.jpg,Success,208075,242,207833,99.88,197.55,"A white BMW SUV is displayed in a showroom with a blue SUV in the background. The showroom has wooden accents, a reception desk, and a sign reading ""Quality.""",car_semantics.json
+sample image.jpg,Success,56921,271,56650,99.52,100.41,A white and orange train with an Indian flag emblem is on tracks. The train has a blue and white locomotive. The tracks are surrounded by gravel and a blue fence. The sky is clear.,sample image_semantics.json
+school.jpg,Success,53853,272,53581,99.49,102.26,The image shows a school building with white walls and blue accents. The ground is green with a basketball court. There are trees and bushes in front of the building. The sky is overcast.,school_semantics.json

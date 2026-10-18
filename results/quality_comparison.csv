@@ -1,0 +1,17 @@
+Image,Quality,Original Bytes,Compressed Bytes,Reduction (%),SSIM
+buidingsample.jpg,40,54027,36632,32.2,0.9267
+buidingsample.jpg,60,54027,50686,6.18,0.9608
+buidingsample.jpg,75,54027,60789,-12.52,0.9912
+buidingsample.jpg,85,54027,69288,-28.25,0.9941
+car.jpg,40,208075,142989,31.28,0.9543
+car.jpg,60,208075,182532,12.28,0.9782
+car.jpg,75,208075,208815,-0.36,0.9895
+car.jpg,85,208075,240208,-15.44,0.993
+sample image.jpg,40,56921,44305,22.16,0.9556
+sample image.jpg,60,56921,57959,-1.82,0.9762
+sample image.jpg,75,56921,67438,-18.48,0.9951
+sample image.jpg,85,56921,75997,-33.51,0.9969
+school.jpg,40,53853,29214,45.75,0.9367
+school.jpg,60,53853,41692,22.58,0.9525
+school.jpg,75,53853,52349,2.79,0.9921
+school.jpg,85,53853,58167,-8.01,0.9942
